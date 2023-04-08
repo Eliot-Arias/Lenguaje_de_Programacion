@@ -1,0 +1,16 @@
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\bin\Debug\Temporizador-e-Hilos.exe.config
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\bin\Debug\Temporizador-e-Hilos.exe
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\bin\Debug\Temporizador-e-Hilos.pdb
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\Temporizador-e-Hilos.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\Temporizador-e-Hilos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\MainWindow.g.cs
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\App.g.cs
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\Temporizador-e-Hilos_MarkupCompile.cache
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\Temporizador-e-Hilos_MarkupCompile.lref
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\MainWindow.baml
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\Temporizador-e-Hilos.g.resources
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\Temporizador_e_Hilos.Properties.Resources.resources
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\Temporizador-e-Hilos.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\Temporizador-e-Hilos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\Temporizador-e-Hilos.exe
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-e-Hilos\obj\Debug\Temporizador-e-Hilos.pdb

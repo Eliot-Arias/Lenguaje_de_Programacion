@@ -1,0 +1,17 @@
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\bin\Debug\net6.0-windows\Temporizador-n.exe
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\bin\Debug\net6.0-windows\Temporizador-n.deps.json
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\bin\Debug\net6.0-windows\Temporizador-n.runtimeconfig.json
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\bin\Debug\net6.0-windows\Temporizador-n.dll
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\bin\Debug\net6.0-windows\Temporizador-n.pdb
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\Temporizador-n.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\Temporizador_n.Form1.resources
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\Temporizador-n.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\Temporizador-n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\Temporizador-n.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\Temporizador-n.AssemblyInfo.cs
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\Temporizador-n.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\Temporizador-n.dll
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\refint\Temporizador-n.dll
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\Temporizador-n.pdb
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\Temporizador-n.genruntimeconfig.cache
+C:\Users\Alumno\Documents\hiuston\taller4\Temporizador-n\obj\Debug\net6.0-windows\ref\Temporizador-n.dll
