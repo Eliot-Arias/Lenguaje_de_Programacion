@@ -1,0 +1,11 @@
+C:\Users\Alumno\Documents\hiuston\taller5\WinLINQ\bin\Debug\WinLINQ.exe.config
+C:\Users\Alumno\Documents\hiuston\taller5\WinLINQ\bin\Debug\WinLINQ.exe
+C:\Users\Alumno\Documents\hiuston\taller5\WinLINQ\bin\Debug\WinLINQ.pdb
+C:\Users\Alumno\Documents\hiuston\taller5\WinLINQ\obj\Debug\WinLINQ.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\hiuston\taller5\WinLINQ\obj\Debug\WinLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Documents\hiuston\taller5\WinLINQ\obj\Debug\WinLINQ.frmQueries.resources
+C:\Users\Alumno\Documents\hiuston\taller5\WinLINQ\obj\Debug\WinLINQ.Properties.Resources.resources
+C:\Users\Alumno\Documents\hiuston\taller5\WinLINQ\obj\Debug\WinLINQ.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\hiuston\taller5\WinLINQ\obj\Debug\WinLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\hiuston\taller5\WinLINQ\obj\Debug\WinLINQ.exe
+C:\Users\Alumno\Documents\hiuston\taller5\WinLINQ\obj\Debug\WinLINQ.pdb
