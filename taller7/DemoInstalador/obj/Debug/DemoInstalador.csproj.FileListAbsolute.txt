@@ -1,0 +1,16 @@
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\bin\Debug\DemoInstalador.exe.config
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\bin\Debug\DemoInstalador.exe.manifest
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\bin\Debug\DemoInstalador.application
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\bin\Debug\DemoInstalador.exe
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\bin\Debug\DemoInstalador.pdb
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\obj\Debug\DemoInstalador.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\obj\Debug\DemoInstalador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\obj\Debug\DemoInstalador.Acercade.resources
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\obj\Debug\DemoInstalador.MDIPrincipal.resources
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\obj\Debug\DemoInstalador.Properties.Resources.resources
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\obj\Debug\DemoInstalador.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\obj\Debug\DemoInstalador.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\obj\Debug\DemoInstalador.exe.manifest
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\obj\Debug\DemoInstalador.application
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\obj\Debug\DemoInstalador.exe
+C:\Users\Alumno\Documents\hiuston\taller7\DemoInstalador\obj\Debug\DemoInstalador.pdb
